@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@drawable/progress_bg" android:padding="6dp" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <ProgressBar android:layout_width="72dp" android:layout_height="72dp" android:indeterminateDrawable="@drawable/progress_image"/> android:layout_width=&quot;match_parent&quot;\10    android:layout_height=&quot;wrap_content&quot;\10    android:layout_gravity=&quot;center_vertical&quot;\10    android:text=&quot;Loading...&quot;\10    android:textStyle=&quot;bold&quot;\10    android:textColor=&quot;@android:color/white&quot;\10    android:textSize=&quot;16dp&quot; /&gt; 
+</LinearLayout>
